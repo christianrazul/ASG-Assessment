@@ -2,6 +2,12 @@
 
 # Scripts to run files:
 
-In main directory, run:
+In client and server directories, separately run:
 ### `npm start`
-Runs the app in dev mode
+
+Test app by opening two browser windows that connect to:
+### `http://localhost:3000`
+
+1. Enter different names, but the same room ID
+2. Send messages
+3. App end
