@@ -1,6 +1,6 @@
 # ASG-Assessment
 
-# Scripts to run files:
+## Scripts to run files:
 
 In client and server directories, separately run:
 ### `npm start`
